@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9A8uQZaxBKgWFJ8O9qvDKJaDCS25d5whXvia9vR0xyDYl1tHEAmPctFB64sRP1SebP/OnBvvpby1fP0mRuJ0gQ==",
+  "success": true,
+  "projectFilePath": "E:\\VS Projects\\AnalyticsApi\\Google-Analytics-Api-.NET-Core\\googleapiada\\googleapiada\\googleapiada.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arda-PC\\.nuget\\packages\\google.apis\\1.68.0\\google.apis.1.68.0.nupkg.sha512",
+    "C:\\Users\\Arda-PC\\.nuget\\packages\\google.apis.analytics.v3\\1.68.0.1679\\google.apis.analytics.v3.1.68.0.1679.nupkg.sha512",
+    "C:\\Users\\Arda-PC\\.nuget\\packages\\google.apis.analyticsdata.v1beta\\1.68.0.3524\\google.apis.analyticsdata.v1beta.1.68.0.3524.nupkg.sha512",
+    "C:\\Users\\Arda-PC\\.nuget\\packages\\google.apis.analyticsreporting.v4\\1.68.0.2484\\google.apis.analyticsreporting.v4.1.68.0.2484.nupkg.sha512",
+    "C:\\Users\\Arda-PC\\.nuget\\packages\\google.apis.auth\\1.68.0\\google.apis.auth.1.68.0.nupkg.sha512",
+    "C:\\Users\\Arda-PC\\.nuget\\packages\\google.apis.core\\1.68.0\\google.apis.core.1.68.0.nupkg.sha512",
+    "C:\\Users\\Arda-PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Arda-PC\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Arda-PC\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
